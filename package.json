@@ -15,6 +15,7 @@
     "axios": "^0.21.4",
     "chart.js": "^3.9.1",
     "chat.js": "^1.0.2",
+    "global": "^4.4.0",
     "homepage": ".",
     "html-react-parser": "^1.4.14",
     "millify": "^4.0.1",
@@ -27,6 +28,7 @@
     "react-redux": "^7.2.8",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "surge": "^0.23.1",
     "uuid": "^8.3.2",
     "web-vitals": "^1.1.2"
   },
